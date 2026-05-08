@@ -1,0 +1,23 @@
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Node modules (if used in future)
+node_modules/
+package-lock.json
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temporary files
+*.tmp
+.temp/
+
+# OS files
+Thumbs.db
+.DS_Store
